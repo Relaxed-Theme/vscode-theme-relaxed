@@ -2,10 +2,46 @@
 	"name": "Relaxed Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1e1e1e",
-		"editor.foreground": "#d4d4d4",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#353a44",
+		"editor.foreground": "#d9d9d9",
+		"editorGroupHeader.tabsBackground": "#2a2e36",
+		"editor.lineHighlightBackground": "#2d313a",
+		"editor.selectionBackground": "#525968",
+		"editor.selectionHighlightBackground":"#52596870",
+		"editor.wordHighlightStrongBackground": "#ffffff17",
+		"editor.wordHighlightBackground": "#FFFFFF0D",
+		"editorWhitespace.foreground": "#6363639d",
+		"editorLineNumber.foreground": "#6363639d",
+		"editorLineNumber.activeForeground": "#808080",
+		"editorRuler.foreground":"#6363639d",
+		"titleBar.activeBackground": "#2a2e36",
+		"activityBar.background": "#2c3038",
+		"activityBarBadge.background": "#bebebe",
+		"sideBarTitle.foreground": "#d9d9d9",
+		"sideBar.background": "#2a2e36",
+		"sideBar.border": "#2a2e36",
+		"sideBarSectionHeader.background": "#2d313a",
+		"tab.inactiveBackground": "#2a2e36",
+		"scrollbar.shadow": "#353a44",
+		"diffEditor.insertedTextBackground": "#788351",
+		"diffEditor.removedTextBackground": "#b1524e",
+		"panel.background": "#2c3038",
+		"panel.border": "#2c3038",
+		"statusBar.background":"#2c3038",
+		"statusBar.border":"#2c3038",
+
+		"list.activeSelectionForeground": "#ffffff",
+		"list.activeSelectionBackground": "#24252b",
+		"list.hoverBackground": "#24252b",
+		"list.inactiveSelectionForeground": "#ffffff",
+		"list.highlightForeground": "#616161",
+		"scrollbarSlider.activeBackground": "#616161",
+		"editorSuggestWidget.highlightForeground": "#616161",
+		"textLink.foreground": "#616161",
+		"progressBar.background": "#616161",
+		"pickerGroup.foreground": "#616161",
+		"tab.activeBorder": "#616161",
+		"notificationLink.foreground": "#616161"
 	},
 	"tokenColors": [
 		{
@@ -22,7 +58,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#727272"
 			}
 		},
 		{
