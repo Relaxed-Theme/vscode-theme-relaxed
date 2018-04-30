@@ -29,9 +29,13 @@
 		"panel.border": "#2c3038",
 		"statusBar.background":"#2c3038",
 		"statusBar.border":"#2c3038",
-    "editorGutter.addedBackground": "#909d63",
-    "editorGutter.deletedBackground": "#bc5653",
-    "editorGutter.modifiedBackground": "#6a8799",
+		"statusBar.debuggingBackground": "#ebc17a",
+		"statusBar.debuggingForeground": "#353a44",
+		"statusBar.noFolderBackground": "#7eaac7",
+		"statusBar.noFolderForeground": "#353a44",
+		"editorGutter.addedBackground": "#909d63",
+		"editorGutter.deletedBackground": "#bc5653",
+		"editorGutter.modifiedBackground": "#6a8799",
 
 		"list.activeSelectionForeground": "#ffffff",
 		"list.activeSelectionBackground": "#24252b",
@@ -309,7 +313,7 @@
 		{
 			"name": "Attributes",
 			"scope": [
-				"entity.other.attribute-name"
+				"entity.other.attribute-name.js"
 			],
 			"settings": {
 				"foreground": "#b06698"
@@ -364,7 +368,8 @@
 				"keyword.control.at-rule.media.scss",
 				"meta.at-rule.media.scss",
 				"keyword.control.at-rule.page.scss",
-				"meta.at-rule.page.scss"
+				"meta.at-rule.page.scss",
+				"punctuation.definition.keyword.scss"
 			],
 			"settings": {
 				"fontStyle": "italic",

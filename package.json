@@ -1,22 +1,30 @@
 {
-    "name": "relaxed-theme",
-    "displayName": "Relaxed",
-    "description": "A relaxed theme to take a more relaxed view of things.",
-    "version": "0.0.1",
-    "publisher": "mischah",
-    "engines": {
-        "vscode": "^1.22.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Relaxed Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/relaxed-color-theme.json"
-            }
-        ]
-    }
+	"name": "relaxed-theme",
+	"displayName": "Relaxed",
+	"description": "A relaxed theme to take a more relaxed view of things.",
+	"version": "0.0.1",
+	"publisher": "mischah",
+	"icon": "images/relax.png",
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"categories": ["Themes"],
+	"keywords": ["VSCode", "Themes", "Relaxed"],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Relaxed",
+				"uiTheme": "vs-dark",
+				"path": "./themes/relaxed-color-theme.json"
+			}
+		]
+	},
+	"galleryBanner": {
+		"color": "#6a8799",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Relaxed-Theme/vscode-theme-releaxed"
+	}
 }
