@@ -4,18 +4,18 @@
 
 > A relaxed VS Code theme to take a more relaxed view of things.
 
-![Screenshot: JSX](images/screenshot-jsx.png)
+![Screenshot: JSX](https://gitcdn.xyz/repo/Relaxed-Theme/vscode-theme-relaxed/master/images/screenshot-jsx.png)
 
 <details>
   <summary>Screenshot: Sass</summary>
   <p>&nbsp;</p)>
-  <img src="images/screenshot-sass.png" alt="Screenshot: Sass">
+  <img src="https://gitcdn.xyz/repo/Relaxed-Theme/vscode-theme-relaxed/master/images/screenshot-sass.png" alt="Screenshot: Sass">
 </details>
 
 <details>
   <summary>Screenshot: HTML</summary>
   <p>&nbsp;</p)>
-  <img src="images/screenshot-html.png" alt="Screenshot: HTML">
+  <img src="https://gitcdn.xyz/repo/Relaxed-Theme/vscode-theme-relaxed/master/images/screenshot-html.png" alt="Screenshot: HTML">
 </details>
 
 ## Installation
