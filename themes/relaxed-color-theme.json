@@ -502,6 +502,24 @@
 			}
 		},
 		{
+			"name": "JSON Value String",
+			"scope": [
+				"string.quoted.double.json"
+			],
+			"settings": {
+				"foreground": "#c9dfff"
+			}
+		},
+		{
+			"name": "JSON Value Boolean",
+			"scope": [
+				"constant.language.json"
+			],
+			"settings": {
+				"foreground": "#bc5653"
+			}
+		},
+		{
 			"name": "JSON Key - Level 0",
 			"scope": [
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
