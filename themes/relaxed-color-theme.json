@@ -35,7 +35,7 @@
 		"statusBar.noFolderForeground": "#2c3038",
 		"editorGutter.addedBackground": "#909d63",
 		"editorGutter.deletedBackground": "#bc5653",
-		"editorGutter.modifiedBackground": "#6a8799",
+		"editorGutter.modifiedBackground": "#ebc17a",
 
 		"list.activeSelectionForeground": "#ffffff",
 		"list.activeSelectionBackground": "#24252b",
