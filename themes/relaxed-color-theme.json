@@ -874,6 +874,12 @@
 			"settings": {
 				"foreground": "#ecd3a8"
 			}
+		},
+		{
+			"scope": "constant.numeric.decimal.js",
+			"settings": {
+				"foreground": "#ecd3a8"
+			}
 		}
 	]
 }
