@@ -24,3 +24,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 1.0.1
 
 - Fix broken installation
+
+## 1.0.2
+
+- Finally fix broken installation.
