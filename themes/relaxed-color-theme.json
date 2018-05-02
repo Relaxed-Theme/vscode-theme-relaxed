@@ -36,6 +36,11 @@
 		"editorGutter.addedBackground": "#909d63",
 		"editorGutter.deletedBackground": "#bc5653",
 		"editorGutter.modifiedBackground": "#ebc17a",
+		"gitDecoration.modifiedResourceForeground": "#ffc600",
+		"gitDecoration.deletedResourceForeground": "#bc5653",
+		"gitDecoration.untrackedResourceForeground": "#909d63",
+		"gitDecoration.ignoredResourceForeground": "#d9d9d9",
+		"gitDecoration.conflictingResourceForeground": "#b06698",
 
 		"list.activeSelectionForeground": "#ffffff",
 		"list.activeSelectionBackground": "#24252b",
