@@ -20,3 +20,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - a504a3a Change color of numeric values for JavaScript
 - 8086e59 Adapt Git colors
 - 57bcacc Enhance gutter background for modified lines
+
+## 1.0.1
+
+- Fix broken installation
