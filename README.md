@@ -61,7 +61,8 @@ To learn more about scopes and how they're used, check out the [theme](https://c
 
 ## Related
 
-* [Relaxed-Terminal](https://github.com/Relaxed-Theme/Relaxed-Terminal) - A relaxed terminal theme. For iTerm, Hyper, the macOS Terminal and a bunch of others.
+* [Relaxed theme for Terminal](https://github.com/Relaxed-Theme/Relaxed-Terminal) - For iTerm, Hyper, the macOS Terminal and a bunch of others.
+* [Relaxed theme for Atom](https://github.com/Relaxed-Theme/atom-relaxed-syntax) - The Atom adaption.
 
 ## License
 
