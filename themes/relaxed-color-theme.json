@@ -880,6 +880,23 @@
 			"settings": {
 				"foreground": "#ecd3a8"
 			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.block.tag.jsdoc",
+				"storage.type.class.jsdoc"
+			],
+			"settings": {
+				"foreground": "#ecd3a8"
+			}
+		},
+		{
+			"scope": [
+				"variable.jsdoc",
+			],
+			"settings": {
+				"foreground": "#cc6666"
+			}
 		}
 	]
 }
