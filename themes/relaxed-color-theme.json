@@ -872,9 +872,7 @@
 			}
 		},
 		{
-			"scope": [
-				"variable.jsdoc",
-			],
+			"scope": "variable.jsdoc",
 			"settings": {
 				"foreground": "#cc6666"
 			}
