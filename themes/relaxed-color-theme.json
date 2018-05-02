@@ -82,6 +82,12 @@
 	},
 	"tokenColors": [
 		{
+			"settings": {
+				"foreground": "#eeffffff",
+				"background": "#263238ff"
+			}
+		},
+		{
 			"name": "Comment",
 			"scope": [
 				"comment",
@@ -225,6 +231,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
+				"fontStyle": "normal",
 				"foreground": "#909d63"
 			}
 		},
@@ -703,11 +710,22 @@
 			}
 		},
 		{
+			"name": "Markup - Strike",
+			"scope": [
+				"markup.strike"
+			],
+			"settings": {
+				"fontStyle": "strike",
+				"foreground": ""
+			}
+		},
+		{
 			"name": "Markdown - Blockquote",
 			"scope": [
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
+				"background": "#65737E",
 				"foreground": "#65737E"
 			}
 		},
@@ -802,6 +820,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
+				"background": "#00000050",
 				"foreground": "#65737E"
 			}
 		},
