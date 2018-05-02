@@ -2,7 +2,7 @@
 	"name": "relaxed-theme",
 	"displayName": "Relaxed",
 	"description": "A relaxed theme to take a more relaxed view of things.",
-	"version": "0.0.2",
+	"version": "1.0.0",
 	"publisher": "mischah",
 	"icon": "images/relax.png",
 	"engines": {

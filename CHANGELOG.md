@@ -13,3 +13,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Increase visibility of current line
 - More decent no folder background of status bar
 - Add new logo
+
+## 1.0.0
+
+- Improve colors of JSDoc comments
+- a504a3a Change color of numeric values for JavaScript
+- 8086e59 Adapt Git colors
+- 57bcacc Enhance gutter background for modified lines
