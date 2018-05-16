@@ -8,6 +8,9 @@
 	"engines": {
 		"vscode": "^1.20.0"
 	},
+	"scripts": {
+		"publish": "vsce publish"
+	},
 	"categories": ["Themes"],
 	"keywords": ["VSCode", "Themes", "Relaxed"],
 	"contributes": {
