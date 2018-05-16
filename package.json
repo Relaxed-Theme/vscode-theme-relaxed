@@ -6,7 +6,7 @@
 	"publisher": "mischah",
 	"icon": "images/relax.png",
 	"engines": {
-		"vscode": "^1.22.0"
+		"vscode": "^1.20.0"
 	},
 	"categories": ["Themes"],
 	"keywords": ["VSCode", "Themes", "Relaxed"],
