@@ -32,7 +32,7 @@
 		"statusBar.debuggingBackground": "#7eaac7",
 		"statusBar.debuggingForeground": "#353a44",
 		"statusBar.noFolderBackground": "#2c3038",
-		"statusBar.noFolderForeground": "#2c3038",
+		"statusBar.noFolderForeground": "#ffffff",
 		"editorGutter.addedBackground": "#909d63",
 		"editorGutter.deletedBackground": "#bc5653",
 		"editorGutter.modifiedBackground": "#ebc17a",
