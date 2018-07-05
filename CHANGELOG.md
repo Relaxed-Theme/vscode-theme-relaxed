@@ -32,3 +32,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 1.0.3
 
 - Make it compatible with VSCode 1.20.0 and greater
+
+## 1.0.4
+
+- Change statusBar foreground color for files outside folders
