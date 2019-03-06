@@ -36,3 +36,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 1.0.4
 
 - Change statusBar foreground color for files outside folders
+
+## 1.0.5
+
+- Change colors of editor widgets (Find/Replace dialog etc.)
