@@ -27,8 +27,8 @@
 		"sideBarSectionHeader.background": "#2d313a",
 		"tab.inactiveBackground": "#2a2e36",
 		"scrollbar.shadow": "#353a44",
-		"diffEditor.insertedTextBackground": "#788351",
-		"diffEditor.removedTextBackground": "#b1524e",
+		"diffEditor.insertedTextBackground": "#6a880036",
+		"diffEditor.removedTextBackground": "#a3050056",
 		"panel.background": "#2c3038",
 		"panel.border": "#2c3038",
 		"statusBar.background":"#2c3038",
@@ -93,7 +93,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#727272"
+				"foreground": "#888282"
 			}
 		},
 		{
