@@ -27,7 +27,7 @@
 		"sideBarSectionHeader.background": "#2d313a",
 		"tab.inactiveBackground": "#2a2e36",
 		"scrollbar.shadow": "#353a44",
-		"diffEditor.removedTextBackground": "#f1353549",
+		"diffEditor.removedTextBackground": "#f0141449",
    		"diffEditor.removedLineBackground": "#ef7a7a49",
     		"diffEditor.insertedTextBackground": "#6be92d45",
 		"diffEditor.insertedLineBackground": "#85d75c41"
