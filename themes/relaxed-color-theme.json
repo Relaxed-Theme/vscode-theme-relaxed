@@ -238,13 +238,11 @@
 			"name": "Class, Support",
 			"scope": [
 				"entity.name",
-				"support.type",
 				"support.class",
 				"support.orther.namespace.use.php",
 				"meta.use.php",
 				"support.other.namespace.php",
-				"markup.changed.git_gutter",
-				"support.type.sys-types"
+				"markup.changed.git_gutter"
 			],
 			"settings": {
 				"foreground": "#ebc17a"
@@ -253,7 +251,11 @@
 		{
 			"name": "Entity Types",
 			"scope": [
-				"support.type"
+				"support.type",
+				"support.type.sys-types",
+				"storage.type.primitive",
+				"storage.type.built-in",
+				"keyword.other.type.php"
 			],
 			"settings": {
 				"foreground": "#7eaac7"
