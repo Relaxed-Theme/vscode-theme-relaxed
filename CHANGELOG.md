@@ -40,3 +40,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 1.0.5
 
 - Change colors of editor widgets (Find/Replace dialog etc.)
+
+## 1.0.6
+
+- Improve readability of diffs with softer, theme-matching colors
+- Color built-in types consistently across languages, e.g. C++ and PHP (#10)
+- Increase contrast of links and search/autocomplete matches (#12)
+- Fix broken screenshots and version badge in README (#11)
